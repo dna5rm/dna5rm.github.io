@@ -1,0 +1,5 @@
+gem install bundler jekyll
+jekyll new public_html
+cd public_html
+bundle add webrick
+bundle exec jekyll serve
