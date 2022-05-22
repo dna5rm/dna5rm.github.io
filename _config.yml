@@ -27,7 +27,7 @@ twitter_username:
 github_username:  dna5rm
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
